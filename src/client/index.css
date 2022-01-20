@@ -1,0 +1,45 @@
+@font-face {
+  font-family: "ArcadeClassic";
+  font-style: normal;
+  font-weight: normal;
+  src: local("ArcadeClassic"),
+    url("../../fonts/ArcadeClassic.woff") format("woff");
+}
+
+* {
+  box-sizing: border-box;
+  font-family: "ArcadeClassic";
+}
+
+html {
+  height: 100%;
+  color: white;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: white;
+  background: radial-gradient(#ff8a00, #dc141b);
+}
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+h2 {
+  margin: 0;
+  font-size: 3vh;
+}
+
+p {
+  font-size: 2vh;
+  font-family: "ArcadeClassic";
+  background: white;
+  margin: 0;
+  background-clip: "text";
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

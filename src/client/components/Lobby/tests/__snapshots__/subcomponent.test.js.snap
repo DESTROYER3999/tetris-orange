@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<LobbySub> should render without crashing 1`] = `
+<styled.div
+  id="lobby"
+>
+  <styled.div
+    id="left-item"
+  >
+    <Connect(CreateRoomSub) />
+    <Connect(RoomListSub) />
+  </styled.div>
+  <styled.div
+    id="right-item"
+  >
+    <Connect(LadderSub) />
+    <Connect(ChatSub) />
+  </styled.div>
+</styled.div>
+`;

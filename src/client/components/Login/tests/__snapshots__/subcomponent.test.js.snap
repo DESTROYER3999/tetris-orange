@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<LoginSub /> should render without crashing 1`] = `
+<styled.div>
+  <styled.form
+    onSubmit={[Function]}
+  >
+    <WithStyles(ForwardRef)
+      autoComplete="off"
+      error={null}
+      helperText=""
+      id="name"
+      label="Enter your name..."
+      onChange={[Function]}
+      spellCheck="false"
+      value=""
+    />
+    <TetriButton
+      disabled={true}
+    />
+  </styled.form>
+</styled.div>
+`;

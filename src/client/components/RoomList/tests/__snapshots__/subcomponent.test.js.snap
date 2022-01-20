@@ -1,0 +1,116 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<RoomListSub /> should render without crashing 1`] = `
+<div
+  class="sc-bdVaJa mWeMt"
+  id="room-list"
+>
+  <h2>
+    Rooms :
+  </h2>
+  <div
+    class="sc-ifAKCX feFkUc"
+    id="subheader"
+  >
+    <div
+      class="sc-EHOje kgNXRr"
+    >
+      <p
+        id="header"
+      >
+        Name
+      </p>
+    </div>
+    <div
+      class="sc-EHOje qZCVm"
+    >
+      <p
+        id="header"
+      >
+        Mode
+      </p>
+    </div>
+    <div
+      class="sc-EHOje qZCVm"
+    >
+      <p
+        id="header"
+      >
+        Players
+      </p>
+    </div>
+    <div
+      class="sc-EHOje qZCVm"
+    >
+      <p
+        id="header"
+      >
+        Status
+      </p>
+    </div>
+  </div>
+  <div
+    class="sc-bwzfXH kUfuHL"
+    id="list"
+  >
+    <div
+      class="sc-htpNat eHEvwL"
+      id="list-item"
+    >
+      <div
+        class="sc-bxivhb bKDjvz"
+        id="content"
+      >
+        Room1
+      </div>
+      <div
+        class="sc-bxivhb iuOKpD"
+        id="content"
+      >
+        Battleroyal
+      </div>
+      <div
+        class="sc-bxivhb iuOKpD"
+        id="content"
+      >
+        2/5
+      </div>
+      <div
+        class="sc-bxivhb iuOKpD"
+        id="content"
+      >
+        In game
+      </div>
+    </div>
+    <div
+      class="sc-htpNat eHEvwL"
+      id="list-item"
+    >
+      <div
+        class="sc-bxivhb bKDjvz"
+        id="content"
+      >
+        Room2
+      </div>
+      <div
+        class="sc-bxivhb iuOKpD"
+        id="content"
+      >
+        Solo
+      </div>
+      <div
+        class="sc-bxivhb iuOKpD"
+        id="content"
+      >
+        1/1
+      </div>
+      <div
+        class="sc-bxivhb iuOKpD"
+        id="content"
+      >
+        In Menu
+      </div>
+    </div>
+  </div>
+</div>
+`;
